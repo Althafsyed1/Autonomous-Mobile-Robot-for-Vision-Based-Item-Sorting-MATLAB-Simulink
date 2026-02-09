@@ -7,14 +7,7 @@
 [![Status](https://img.shields.io/badge/Status-Simulation%20Validated-success.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
-# 🤖 Autonomous Mobile Robot for Vision-Based Item Sorting
-## MATLAB & Simulink Implementation with Computer Vision
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2023a+-orange.svg)](https://www.mathworks.com/products/matlab.html)
-[![Simulink](https://img.shields.io/badge/Simulink-Model--Based_Design-blue.svg)](https://www.mathworks.com/products/simulink.html)
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-Enabled-green.svg)]()
-[![Robotics](https://img.shields.io/badge/Robotics-Mobile_Platform-red.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Autonomous mobile robot system integrating computer vision, machine learning, and control algorithms for intelligent object detection, classification, and sorting using MATLAB and Simulink.**
 
