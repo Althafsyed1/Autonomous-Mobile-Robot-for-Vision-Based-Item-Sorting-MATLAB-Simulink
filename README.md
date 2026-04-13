@@ -297,6 +297,12 @@ Modern warehouses and manufacturing facilities require automated systems capable
 
 ---
 
+
+
+https://github.com/user-attachments/assets/f795571e-8a50-4400-ae1d-b2e11fbbbe46
+
+
+
 ## 💻 Technical Stack
 
 ### Core Technologies
